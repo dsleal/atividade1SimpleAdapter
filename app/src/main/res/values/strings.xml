@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pedido</string>
+    <string name="hint_cliente">Informe o cliente</string>
+    <string name="hint_produto">Informe o produto</string>
+    <string name="hint_valor">Informe o valor</string>
+    <string name="hint_data">Informe a data</string>
+</resources>
